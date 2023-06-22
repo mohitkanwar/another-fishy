@@ -1,4 +1,4 @@
-package com.xebia.great.project;
+package com.changed.great.project;
 
 public class Main {
     public static void main(String[] args) {
